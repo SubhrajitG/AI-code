@@ -1,6 +1,6 @@
 ## AI CODES
 
-This repository contains implementations of several fundamental algorithms in Artificial Intelligence, including Depth-First Search (DFS), Breadth-First Search (BFS), Tic-Tac-Toe, and Hill Climbing. Each algorithm is implemented in Python and accompanied by comments to help you understand the code.
+This repository contains implementations of several fundamental algorithms in Artificial Intelligence, including Depth-First Search (DFS), Breadth-First Search (BFS), Tic-Tac-Toe, and Hill Climbing and A*(A-Star). Each algorithm is implemented in Python and accompanied by comments to help you understand the code.
 This repository is designed for anyone interested in learning about and experimenting with classic AI algorithms. Whether you're a student, educator, or AI enthusiast, these implementations will help you understand the core concepts and practical applications of these algorithms.
 
 Algorithms
@@ -17,4 +17,6 @@ Hill Climbing
 
 Hill Climbing is an optimization algorithm that starts with an arbitrary solution to a problem and iteratively makes small changes to the solution, each time improving it.
 
+A* (A Star)
 
+A* (A Star) is a widely used pathfinding and graph traversal algorithm. It is known for its efficiency and accuracy in finding the shortest path between nodes, using heuristics to guide its search.
